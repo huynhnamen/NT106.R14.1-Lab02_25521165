@@ -1,0 +1,4 @@
+# csharp build binaries
+.vs/
+bin/
+obj/

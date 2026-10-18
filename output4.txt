@@ -1,0 +1,1 @@
+[{"HoTen":"wqewqeqe","MSSV":22222222,"DienThoai":"0123456789","DiemToan":9,"DiemVan":8,"DiemAnh":7,"DiemTrungBinh":8},{"HoTen":"ff","MSSV":67676767,"DienThoai":"0696969697","DiemToan":3,"DiemVan":6,"DiemAnh":7,"DiemTrungBinh":5.3333335}]
